@@ -32,7 +32,7 @@
 						<environment>Sandbox</environment>
 						<workers>1</workers>
 						<workerType>Micro</workerType>
-						<applicationName>worldtimezone-service</applicationName>
+						<applicationName>world-demo-api</applicationName>
 						<password>Zenre.antheia1</password>
 						<muleVersion>4.1.4</muleVersion>
 					</cloudHubDeployment>
