@@ -27,6 +27,14 @@
 				<version>${mule.maven.plugin.version}</version>
 				<extensions>true</extensions>
 				<configuration>
+					<cloudHubDeployment>
+						<username>mulesoft_itechtions_abner_4</username>
+						<environment>Sandbox</environment>
+						<workers>1</workers>
+						<workerType>Micro</workerType>
+						<applicationName>worldtimezone-service</applicationName>
+						<password>Zenre.antheia1</password>
+					</cloudHubDeployment>
 				</configuration>
 			</plugin>
 		</plugins>
